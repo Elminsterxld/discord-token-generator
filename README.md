@@ -6,6 +6,10 @@
 
 # 200 Star Aldığında ise Non-Chromium Versiyonu Atılacaktır.
 
+# Mail Verify
+
+Mail alma ve doğrulama işlemleri otomatik olup  http://tempomail.org/mailbox/ Sitesinden yapılır.
+
 Sistemler Aşağıda ki Gibidir : 
 
 1- Hesap oluşturma.
@@ -14,5 +18,4 @@ Sistemler Aşağıda ki Gibidir :
 4- HypeSquad Alma.
 5- Bio ve Avatar Koyma.
 6- Otomatik Sunucuya Gİrme.
-Çoklu Açar Hızlıdır.
 
