@@ -10,6 +10,10 @@
 
 Mail alma ve doğrulama işlemleri otomatik olup  http://tempomail.org/mailbox/ Sitesinden yapılır.
 
+# Captcha
+
+Captcha olaral ben capmonster kullandım ama bunun yanında 2captcha da kullanabilirsiniz. İstek apiniz var ise discord üzerinden iletişime geçiniz.
+
 Sistemler Aşağıda ki Gibidir : 
 
 1- Hesap oluşturma.
