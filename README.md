@@ -6,7 +6,7 @@
 
 # 200 Star Aldığında ise Non-Chromium Versiyonu Atılacaktır.
 
-# Mail Verify
+# Mail
 
 Mail alma ve doğrulama işlemleri otomatik olup  http://tempomail.org/mailbox/ Sitesinden yapılır.
 
@@ -14,12 +14,34 @@ Mail alma ve doğrulama işlemleri otomatik olup  http://tempomail.org/mailbox/ 
 
 Captcha olarak ben capmonster kullandım ama bunun yanında 2captcha da kullanabilirsiniz. İstek apiniz var ise discord üzerinden iletişime geçiniz.
 
-Sistemler Aşağıda ki Gibidir : 
+# Doğrulama
 
-1- Hesap oluşturma.
-2- Mail Doğrulama
-3- Telefon Doğrulama.
-4- HypeSquad Alma.
-5- Bio ve Avatar Koyma.
-6- Otomatik Sunucuya Gİrme.
+Telefon Doğrulama https://onlinesim.ru/v2/receive/sms Sitesinin apisinden yapılmaktadır. 
 
+# Config 
+
+Telefon Doğrulama Yapmayı Açmak kapatmak , tek startta kaç adet hesap açılacağını seçmek gibi özellikler var ek olarak api anahtarlarıda burada bulunmaktadır.
+
+# Avatar 
+
+Otomatik olarak base64 çevirir ardından rastgele seçmiş olduğu resimi avatar olarak koyar.
+
+# HypeSquad
+
+Config Dosyasından hangi rozeti alacağını seçebilirsiniz.
+
+# Bio 
+
+Config Dosyasından hangi bioyu koyabileceiğiniz seçebilirsiniz. 
+
+# Sunucuya Katılma
+
+Config Dosyasından Sunucu Linkinizi girebilirsiniz.
+
+# Name
+
+Config dosyasından istediğiniz isime özel açabilirsiniz veya default olarak dosyadan çektirebilirsiniz.
+
+# Kaydetmek
+
+Açılan hesaplar accounts.txt dosyasına kayıt edilir. Tokenleri de ekstra olarak tokens.txt kaydedilir.
