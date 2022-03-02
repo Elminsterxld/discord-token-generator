@@ -12,7 +12,7 @@ Mail alma ve doğrulama işlemleri otomatik olup  http://tempomail.org/mailbox/ 
 
 # Captcha
 
-Captcha olaral ben capmonster kullandım ama bunun yanında 2captcha da kullanabilirsiniz. İstek apiniz var ise discord üzerinden iletişime geçiniz.
+Captcha olarak ben capmonster kullandım ama bunun yanında 2captcha da kullanabilirsiniz. İstek apiniz var ise discord üzerinden iletişime geçiniz.
 
 Sistemler Aşağıda ki Gibidir : 
 
