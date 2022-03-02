@@ -1,8 +1,10 @@
 # discord-token-generator
 
-# 50 Star Aldığında Chromium Versiyonu Atılacaktır.
+# Eğer Star beklemek yerine almak isterseniz Elminsterxld#0007
 
-#100 Star Aldığında ise Non-Chromium Versiyonu Atılacaktır.
+# 100 Star Aldığında Chromium Versiyonu Atılacaktır.
+
+# 200 Star Aldığında ise Non-Chromium Versiyonu Atılacaktır.
 
 Sistemler Aşağıda ki Gibidir : 
 
