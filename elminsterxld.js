@@ -14,7 +14,7 @@ const playwright = require("playwright");
 const { Console } = require('console')
 const { emailGenerator, readMail } = require("./users/email-handler");
 const { sleepTime } = require("./utils/utils");
-const { config } = require("../config");
+
 
 
    
