@@ -1,10 +1,13 @@
 # discord-token-generator
 
+# Destek Sunucusu
+
+Destek Sunucumuz https://discord.gg/jAjruVU5Am Yalnızca Hata Çıkarsa Ulaşın! Sadece Hesap Açar Diğer Tüm Özellikleri Almak İsterseniz Elminsterxld#0007 den ulaşınız.
+
 # Eğer Star beklemek yerine almak isterseniz Elminsterxld#0007
 
-# 100 Star Aldığında Chromium Versiyonu Atılacaktır.
 
-# 200 Star Aldığında ise Non-Chromium Versiyonu Atılacaktır.
+#  Non-Chromium Versiyonu Sadece Satılıktır.
 
 # Mail
 
