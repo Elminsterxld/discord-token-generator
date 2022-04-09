@@ -251,7 +251,7 @@ fs.writeFileSync('./tokens.txt', list);  //Elminsterxld#0007Elminsterxld#0007Elm
  
   
 
-  return `${email}:${username}:${password}:${token}`;
+  return `${email}:${username}:${password}`;
 }
 
 
