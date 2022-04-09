@@ -242,7 +242,7 @@ fs.writeFileSync('./tokens.txt', list);  //Elminsterxld#0007Elminsterxld#0007Elm
   
   
 
-                            await break_captcha(DiscordPage);  //Elminsterxld#0007Elminsterxld#0007Elminsterxld#0007
+                              //Elminsterxld#0007Elminsterxld#0007Elminsterxld#0007
 							
 				
     
