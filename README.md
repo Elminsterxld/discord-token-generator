@@ -1,3 +1,3 @@
 # discord-token-generator
 
-## NOT WORK
+## NOT WORKİNG
